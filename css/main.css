@@ -11,7 +11,11 @@
     font-size: 36px;
 }
 
-div{
+.first{
     display:flex;
     justify-self:center;
+}
+
+body{
+    background-color: darkcyan;
 }
