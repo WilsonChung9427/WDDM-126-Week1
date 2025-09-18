@@ -1,9 +1,11 @@
 .title{
     text-align: center;
+    color: orchid;
 }
 
 .intro{
-    text-align: center;
+    text-align: left;
+    color: gold;
 }
 
 #introP{
