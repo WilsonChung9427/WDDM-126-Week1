@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+}
+
+.intro{
+    text-align: center;
+}
+
+#introP{
+    color:blue;
+    font-size: 36px;
+}
+
+div{
+    display:flex;
+    justify-self:center;
+}
